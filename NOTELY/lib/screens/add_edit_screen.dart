@@ -19,6 +19,7 @@ class _AddEditScreenState extends State<AddEditScreen> {
   final DatabaseHelper _databaseHelper = DatabaseHelper();
   Color _selectedColor = Colors.amber;
 
+  // list of colors...
   final List<Color> _colors = [
     Colors.amber,
     Colors.redAccent,
