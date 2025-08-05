@@ -19,18 +19,22 @@
 
 ## 🌈 Note Colors Used
 
-```dart
-Colors.amber,
-Colors.redAccent,
-Colors.blueAccent,
-Colors.greenAccent,
-Colors.purpleAccent,
-Colors.yellowAccent,
-Colors.orangeAccent,
-Colors.pinkAccent,
-Colors.cyanAccent,
-Color(0xFF50C878), // Emerald Green
-```
+
+
+| Color Dot | Name            |
+|-----------|-----------------|
+|   🟡      | Amber           |
+|   🔴      | Red Accent      |
+|   🔵      | Blue Accent     |
+|   🟢      | Green Accent    |
+|   🟣      | Purple Accent   |
+|   🟡      | Yellow Accent   |
+|   🟠      | Orange Accent   |
+|   🌸      | Pink Accent     |
+|   🔷      | Cyan Accent     |
+|   💚      | Emerald Green   |
+
+
 
 ---
 
