@@ -3,7 +3,7 @@
 **Notely** is a beautifully minimal, fully-featured note-taking application built using **Flutter**, **Dart**, and **Sqflite** for local data persistence. It supports **light/dark themes**, smooth UI, and colorful notes to organize your thoughts better.
 
 > 🎯 **Live Demo (APK)**: _Coming Soon_. <br>
-> 📂 **GitHub Repo**: [https://github.com/Rakesh-kumar-2005/FLUTTER-JOURNEY/NOTELY](https://github.com/Rakesh-kumar-2005/FLUTTER-JOURNEY/NOTELY)
+> 📂 **GitHub Repo**: [https://github.com/Rakesh-kumar-2005/FLUTTER-JOURNEY](https://github.com/Rakesh-kumar-2005/FLUTTER-JOURNEY)
 
 ---
 
