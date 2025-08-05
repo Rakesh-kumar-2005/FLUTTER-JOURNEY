@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:notely/screens/home_screen.dart';
+import 'package:notely/screens/splash_screen.dart';
 import 'package:provider/provider.dart';
 import 'Theme/theme_provider.dart';
 
@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
       title: 'Notely',
       debugShowCheckedModeBanner: false,
       theme: Provider.of<ThemeProvider>(context).themeData,
-      home: const HomeScreen()
+      home: SplashScreen(),
     );
   }
 }

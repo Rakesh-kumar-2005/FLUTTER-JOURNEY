@@ -19,19 +19,6 @@ class _HomeScreenState extends State<HomeScreen> {
   final DatabaseHelper _databaseHelper = DatabaseHelper();
   List<Note> _notes = [];
 
-  final List<Color> _noteColors = [
-    Colors.amber,
-    Colors.redAccent,
-    Colors.blueAccent,
-    Colors.greenAccent,
-    Colors.purpleAccent,
-    Colors.yellowAccent,
-    Colors.orangeAccent,
-    Colors.pinkAccent,
-    Colors.cyanAccent,
-    Color(0xFF50C878),
-  ];
-
   @override
   void initState() {
     super.initState();
@@ -64,12 +51,24 @@ class _HomeScreenState extends State<HomeScreen> {
     return Scaffold(
       backgroundColor: Theme.of(context).colorScheme.surface,
       appBar: AppBar(
-        title: Text(
-          'Notely',
-          style: TextStyle(
-            color: Theme.of(context).colorScheme.primary,
-            fontSize: 32,
-            fontWeight: FontWeight.bold,
+        title: Container(
+          padding: EdgeInsets.symmetric(horizontal: 7, vertical: 4),
+          decoration: BoxDecoration(
+            borderRadius: BorderRadius.circular(10),
+            border: Border(
+              bottom: BorderSide(
+                color: Theme.of(context).colorScheme.primary,
+                width: 2,
+              ),
+            ),
+          ),
+          child: Text(
+            'Memories',
+            style: TextStyle(
+              color: Theme.of(context).colorScheme.primary,
+              fontSize: 26,
+              fontWeight: FontWeight.bold,
+            ),
           ),
         ),
         backgroundColor: Theme.of(context).colorScheme.surface,
