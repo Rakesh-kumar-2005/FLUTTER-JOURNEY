@@ -2,7 +2,7 @@
 
 **Notely** is a beautifully minimal, fully-featured note-taking application built using **Flutter**, **Dart**, and **Sqflite** for local data persistence. It supports **light/dark themes**, smooth UI, and colorful notes to organize your thoughts better.
 
-> 🎯 **Live Demo (APK)**: _Coming Soon_.
+> 🎯 **Live Demo (APK)**: _Coming Soon_. <br>
 > 📂 **GitHub Repo**: [https://github.com/Rakesh-kumar-2005/FLUTTER-JOURNEY](https://github.com/Rakesh-kumar-2005/FLUTTER-JOURNEY)
 
 ---
@@ -41,16 +41,16 @@ Color(0xFF50C878), // Emerald Green
 
 
 ### 🌞 Light Mode Preview
-![Light Mode](https://raw.githubusercontent.com/Rakesh-kumar-2005/FLUTTER-JOURNEY/main/NOTELY/assets/screenshots/ss1.png)
+![Light Mode](https://raw.githubusercontent.com/Rakesh-kumar-2005/FLUTTER-JOURNEY/main/NOTELY/assets/screenshots/ss1.jpg)
 
 ### 🌙 Dark Mode Preview
-![Dark Mode](https://raw.githubusercontent.com/Rakesh-kumar-2005/FLUTTER-JOURNEY/main/NOTELY/assets/screenshots/ss2.png)
+![Dark Mode](https://raw.githubusercontent.com/Rakesh-kumar-2005/FLUTTER-JOURNEY/main/NOTELY/assets/screenshots/ss2.jpg)
 
 ### 📄 Note View Screen Preview
-![Note View Screen](https://raw.githubusercontent.com/Rakesh-kumar-2005/FLUTTER-JOURNEY/main/NOTELY/assets/screenshots/ss3.png)
+![Note View Screen](https://raw.githubusercontent.com/Rakesh-kumar-2005/FLUTTER-JOURNEY/main/NOTELY/assets/screenshots/ss3.jpg)
 
 ### ✏️ Edit Screen Preview
-![Edit Screen](https://raw.githubusercontent.com/Rakesh-kumar-2005/FLUTTER-JOURNEY/main/NOTELY/assets/screenshots/ss4.png)
+![Edit Screen](https://raw.githubusercontent.com/Rakesh-kumar-2005/FLUTTER-JOURNEY/main/NOTELY/assets/screenshots/ss4.jpg)
 
 
 ---
