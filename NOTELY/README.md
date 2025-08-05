@@ -39,35 +39,17 @@ Color(0xFF50C878), // Emerald Green
 > Screenshots of the project are located in the `/assets/screenshots` folder.
 > You can add them below by using the following format:
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+### 🌞 Light Mode & 🌙 Dark Mode
 
-  <div style="text-align: center;">
-    <h4>🌞 Light Mode Preview</h4>
-    <img src="https://raw.githubusercontent.com/Rakesh-kumar-2005/FLUTTER-JOURNEY/main/NOTELY/assets/screenshots/ss1.jpg" alt="Light Mode" width="300" height="600"/>
-  </div>
+| Light Mode | Dark Mode |
+|------------|-----------|
+| <img src="https://raw.githubusercontent.com/Rakesh-kumar-2005/FLUTTER-JOURNEY/main/NOTELY/assets/screenshots/ss1.jpg" width="200" style="height:auto;"/> | <img src="https://raw.githubusercontent.com/Rakesh-kumar-2005/FLUTTER-JOURNEY/main/NOTELY/assets/screenshots/ss2.jpg" width="200" style="height:auto;"/> |
 
-  <div style="text-align: center;">
-    <h4>🌙 Dark Mode Preview</h4>
-    <img src="https://raw.githubusercontent.com/Rakesh-kumar-2005/FLUTTER-JOURNEY/main/NOTELY/assets/screenshots/ss2.jpg" alt="Dark Mode" width="300" height="600"/>
-  </div>
+### 📄 Note View & ✏️ Edit Screen
 
-</div>
-
-<br/>
-
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-
-  <div style="text-align: center;">
-    <h4>📄 Note View Screen</h4>
-    <img src="https://raw.githubusercontent.com/Rakesh-kumar-2005/FLUTTER-JOURNEY/main/NOTELY/assets/screenshots/ss3.jpg" alt="Note View" width="300" height="600"/>
-  </div>
-
-  <div style="text-align: center;">
-    <h4>✏️ Edit Screen</h4>
-    <img src="https://raw.githubusercontent.com/Rakesh-kumar-2005/FLUTTER-JOURNEY/main/NOTELY/assets/screenshots/ss4.jpg" alt="Edit Screen" width="300" height="600"/>
-  </div>
-
-</div>
+| Note View Screen | Edit Screen |
+|------------------|-------------|
+| <img src="https://raw.githubusercontent.com/Rakesh-kumar-2005/FLUTTER-JOURNEY/main/NOTELY/assets/screenshots/ss3.jpg" width="200" style="height:auto;"/> | <img src="https://raw.githubusercontent.com/Rakesh-kumar-2005/FLUTTER-JOURNEY/main/NOTELY/assets/screenshots/ss4.jpg" width="200" style="height:auto;"/> |
 
 
 ---
