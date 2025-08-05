@@ -39,19 +39,17 @@ Color(0xFF50C878), // Emerald Green
 > Screenshots of the project are located in the `/assets/screenshots` folder.
 > You can add them below by using the following format:
 
-
 ### 🌞 Light Mode Preview
-![Light Mode](https://raw.githubusercontent.com/Rakesh-kumar-2005/FLUTTER-JOURNEY/main/NOTELY/assets/screenshots/ss1.jpg)
+<img src="https://raw.githubusercontent.com/Rakesh-kumar-2005/FLUTTER-JOURNEY/main/NOTELY/assets/screenshots/ss1.jpg" alt="Light Mode" width="300" height="600"/>
 
 ### 🌙 Dark Mode Preview
-![Dark Mode](https://raw.githubusercontent.com/Rakesh-kumar-2005/FLUTTER-JOURNEY/main/NOTELY/assets/screenshots/ss2.jpg)
+<img src="https://raw.githubusercontent.com/Rakesh-kumar-2005/FLUTTER-JOURNEY/main/NOTELY/assets/screenshots/ss2.jpg" alt="Dark Mode" width="300" height="600"/>
 
 ### 📄 Note View Screen Preview
-![Note View Screen](https://raw.githubusercontent.com/Rakesh-kumar-2005/FLUTTER-JOURNEY/main/NOTELY/assets/screenshots/ss3.jpg)
+<img src="https://raw.githubusercontent.com/Rakesh-kumar-2005/FLUTTER-JOURNEY/main/NOTELY/assets/screenshots/ss3.jpg" alt="Note View Screen" width="300" height="600"/>
 
 ### ✏️ Edit Screen Preview
-![Edit Screen](https://raw.githubusercontent.com/Rakesh-kumar-2005/FLUTTER-JOURNEY/main/NOTELY/assets/screenshots/ss4.jpg)
-
+<img src="https://raw.githubusercontent.com/Rakesh-kumar-2005/FLUTTER-JOURNEY/main/NOTELY/assets/screenshots/ss4.jpg" alt="Edit Screen" width="300" height="600"/>
 
 ---
 
