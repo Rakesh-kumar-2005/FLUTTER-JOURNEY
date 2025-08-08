@@ -20,12 +20,12 @@ class _SplashScreenState extends State<SplashScreen>
     super.initState();
 
     _controller = AnimationController(
-      duration: Duration(milliseconds: 1500),
+      duration: Duration(milliseconds: 2000),
       vsync: this,
     );
 
     // Initial animation: zoom in → normal (5.0 → 1.0)
-    _scaleAnimation = Tween<double>(begin: 0.0, end: 1.4).animate(
+    _scaleAnimation = Tween<double>(begin: -1.2, end: 1.4).animate(
       CurvedAnimation(parent: _controller, curve: Curves.fastOutSlowIn),
     );
 
@@ -33,7 +33,6 @@ class _SplashScreenState extends State<SplashScreen>
 
     _controller.addStatusListener((status) {
       if (status == AnimationStatus.completed && !isZoomingOut) {
-        // Start zoom-out animation (1.0 → 10.0)
         isZoomingOut = true;
         _controller.reset();
 
