@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1050817219071",
+    "project_id": "flare-9b5ed",
+    "storage_bucket": "flare-9b5ed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050817219071:android:c2ee0dfb6a7dd2c4e67fca",
+        "android_client_info": {
+          "package_name": "com.example.dating_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsaLC9IXE2dv_bTis1mkAbAA1QaP4ivog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
