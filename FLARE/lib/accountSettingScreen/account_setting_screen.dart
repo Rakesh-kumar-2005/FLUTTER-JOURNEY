@@ -1,6 +1,5 @@
 import 'dart:io';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:dating_app/Controllers/authentication_controller.dart';
 import 'package:dating_app/global.dart';
 import 'package:dating_app/homeScreen/home_screen.dart';
 import 'package:dating_app/widgets/custom_text_field_widget.dart';

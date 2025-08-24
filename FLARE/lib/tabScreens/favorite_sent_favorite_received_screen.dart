@@ -4,7 +4,6 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:dating_app/global.dart';
 import 'package:flutter/material.dart';
 
-import '../models/person.dart';
 
 class FavoriteSentFavoriteReceivedScreen extends StatefulWidget {
   const FavoriteSentFavoriteReceivedScreen({super.key});

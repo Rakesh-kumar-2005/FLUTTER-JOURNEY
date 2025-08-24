@@ -107,8 +107,8 @@ class AuthenticationController extends GetxController {
       ) async {
     try {
       // 1. Authenticate and create a new user account...
-      UserCredential credentials = await FirebaseAuth.instance
-          .createUserWithEmailAndPassword(email: email, password: password);
+      // UserCredential credentials = await FirebaseAuth.instance
+      //     .createUserWithEmailAndPassword(email: email, password: password);
 
       // 2. Upload image to firebase storage and get download url...
       String urlOfDownloadedImage = await uploadImageToStorage(imageProfile);

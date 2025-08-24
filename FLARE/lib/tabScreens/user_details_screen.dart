@@ -11,6 +11,7 @@ import 'package:get/get.dart';
 import '../accountSettingScreen/account_setting_screen.dart';
 import '../models/person.dart';
 
+// ignore: must_be_immutable
 class UserDetailsScreen extends StatefulWidget {
 
   String? userID;
